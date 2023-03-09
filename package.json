@@ -1,7 +1,7 @@
 {
-  "name": "node-api",
+  "name": "api",
   "version": "1.0.0",
-  "description": "",
+  "description": "<p align=\"center\">   <a href=\"#-tecnologias\">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   <a href=\"#-projeto\">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   <a href=\"#memo-licença\">Lincense</a> </p>",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ."
@@ -14,6 +14,15 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.13"
-  }
+    "nodemon": "^2.0.13",
+    "axios": "^1.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Henrique-Lopes-Costa/node-api-discover.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lucas-Henrique-Lopes-Costa/node-api-discover/issues"
+  },
+  "homepage": "https://github.com/Lucas-Henrique-Lopes-Costa/node-api-discover#readme"
 }
